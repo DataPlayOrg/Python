@@ -1,0 +1,134 @@
+students = [
+    {
+        "id": 1,
+        "name": "Alice",
+        "grade": 9,
+        "courses": {
+            "Math": {"teacher": "Mr. Brown", "description": "Basic mathematical concepts.", "department": "Mathematics"},
+            "Science": {"teacher": "Ms. Smith", "description": "Exploring natural phenomena.", "department": "Science"},
+            "English": {"teacher": "Ms. Jones", "description": "Language skills and literature.", "department": "Language Arts"},
+            "History": {"teacher": "Mr. Williams", "description": "Past events and civilizations.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "grade": 10,
+        "courses": {
+            "English": {"teacher": "Ms. Jones", "description": "Language skills and literature.", "department": "Language Arts"},
+            "History": {"teacher": "Mr. Williams", "description": "Past events and civilizations.", "department": "Social Studies"},
+            "Biology": {"teacher": "Ms. Lee", "description": "Living organisms and ecosystems.", "department": "Science"},
+            "Chemistry": {"teacher": "Mr. Johnson", "description": "Chemical properties and reactions.", "department": "Science"}
+        }
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "grade": 11,
+        "courses": {
+            "Math": {"teacher": "Mr. Davis", "description": "Advanced mathematical topics.", "department": "Mathematics"},
+            "Physics": {"teacher": "Mr. Brown", "description": "Principles of motion and energy.", "department": "Science"},
+            "Literature": {"teacher": "Ms. Garcia", "description": "Literary analysis and critique.", "department": "Language Arts"},
+            "Social Studies": {"teacher": "Ms. Hernandez", "description": "Understanding societies and cultures.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "grade": 12,
+        "courses": {
+            "Calculus": {"teacher": "Ms. Green", "description": "Differential and integral calculus.", "department": "Mathematics"},
+            "Physics": {"teacher": "Mr. Brown", "description": "Principles of motion and energy.", "department": "Science"},
+            "English": {"teacher": "Ms. Smith", "description": "Advanced composition and rhetoric.", "department": "Language Arts"},
+            "History": {"teacher": "Mr. Johnson", "description": "Modern world history.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "grade": 9,
+        "courses": {
+            "Geometry": {"teacher": "Ms. Davis", "description": "Shapes, sizes, and the properties of space.", "department": "Mathematics"},
+            "Biology": {"teacher": "Ms. Lee", "description": "Living organisms and ecosystems.", "department": "Science"},
+            "Creative Writing": {"teacher": "Mr. Thomas", "description": "Writing original works of fiction.", "department": "Language Arts"},
+            "Geography": {"teacher": "Mr. Harris", "description": "Earth's landscapes and environments.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 6,
+        "name": "Fay",
+        "grade": 10,
+        "courses": {
+            "Algebra II": {"teacher": "Mr. Green", "description": "Advanced algebraic concepts.", "department": "Mathematics"},
+            "Chemistry": {"teacher": "Mr. Johnson", "description": "Chemical properties and reactions.", "department": "Science"},
+            "History": {"teacher": "Ms. Black", "description": "Ancient civilizations.", "department": "Social Studies"},
+            "Spanish": {"teacher": "Ms. White", "description": "Introduction to the Spanish language.", "department": "Language Arts"}
+        }
+    },
+    {
+        "id": 7,
+        "name": "Grace",
+        "grade": 11,
+        "courses": {
+            "Pre-Calculus": {"teacher": "Mr. Taylor", "description": "Preparation for calculus.", "department": "Mathematics"},
+            "Physics": {"teacher": "Mr. Brown", "description": "Principles of motion and energy.", "department": "Science"},
+            "Literature": {"teacher": "Ms. Garcia", "description": "Literary analysis and critique.", "department": "Language Arts"},
+            "World History": {"teacher": "Mr. Williams", "description": "Comprehensive overview of global history.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 8,
+        "name": "Henry",
+        "grade": 12,
+        "courses": {
+            "Calculus": {"teacher": "Ms. Green", "description": "Differential and integral calculus.", "department": "Mathematics"},
+            "Biology": {"teacher": "Ms. Lee", "description": "Living organisms and ecosystems.", "department": "Science"},
+            "English": {"teacher": "Ms. Jones", "description": "Advanced composition and rhetoric.", "department": "Language Arts"},
+            "Economics": {"teacher": "Mr. Martinez", "description": "Principles of economics.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 9,
+        "name": "Ivy",
+        "grade": 10,
+        "courses": {
+            "Trigonometry": {"teacher": "Mr. Davis", "description": "Study of triangles and trigonometric functions.", "department": "Mathematics"},
+            "Chemistry": {"teacher": "Mr. Johnson", "description": "Chemical properties and reactions.", "department": "Science"},
+            "English": {"teacher": "Ms. Smith", "description": "Language skills and literature.", "department": "Language Arts"},
+            "Geography": {"teacher": "Mr. Harris", "description": "Earth's landscapes and environments.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 10,
+        "name": "Jack",
+        "grade": 9,
+        "courses": {
+            "Math": {"teacher": "Mr. Brown", "description": "Basic mathematical concepts.", "department": "Mathematics"},
+            "Science": {"teacher": "Ms. Smith", "description": "Exploring natural phenomena.", "department": "Science"},
+            "Art": {"teacher": "Ms. Baker", "description": "Introduction to visual arts.", "department": "Fine Arts"},
+            "History": {"teacher": "Mr. Williams", "description": "Past events and civilizations.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 11,
+        "name": "Kelly",
+        "grade": 11,
+        "courses": {
+            "Algebra II": {"teacher": "Mr. Green", "description": "Advanced algebraic concepts.", "department": "Mathematics"},
+            "Biology": {"teacher": "Ms. Lee", "description": "Living organisms and ecosystems.", "department": "Science"},
+            "Literature": {"teacher": "Ms. Garcia", "description": "Literary analysis and critique.", "department": "Language Arts"},
+            "History": {"teacher": "Mr. Johnson", "description": "Modern world history.", "department": "Social Studies"}
+        }
+    },
+    {
+        "id": 12,
+        "name": "Leo",
+        "grade": 12,
+        "courses": {
+            "Calculus": {"teacher": "Ms. Green", "description": "Differential and integral calculus.", "department": "Mathematics"},
+            "Physics": {"teacher": "Mr. Brown", "description": "Principles of motion and energy.", "department": "Science"},
+            "Creative Writing": {"teacher": "Mr. Thomas", "description": "Writing original works of fiction.", "department": "Language Arts"},
+            "Economics": {"teacher": "Mr. Martinez", "description": "Principles of economics.", "department": "Social Studies"}
+        }
+    }
+]
