@@ -1,4 +1,4 @@
-harry_potter_database = {
+hogwart_school_students  = {
     'Gryffindor': {
         'Defense Against the Dark Arts': [
             {'name': 'Harry Potter', 'age': 17, 'grades': [85, 90, 88]},
