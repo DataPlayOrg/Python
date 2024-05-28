@@ -1,0 +1,25 @@
+university_database = {
+    'Computer Science': {
+        'Python Programming': [
+            {'name': 'Alice', 'age': 20, 'grades': [85, 90, 88]},
+            {'name': 'Bob', 'age': 21, 'grades': [75, 80, 82]},
+            {'name': 'Charlie', 'age': 19, 'grades': [95, 88, 92]}
+        ],
+        'Data Structures': [
+            {'name': 'David', 'age': 22, 'grades': [78, 82, 80]},
+            {'name': 'Emily', 'age': 20, 'grades': [88, 90, 85]},
+            {'name': 'Frank', 'age': 21, 'grades': [92, 94, 90]}
+        ]
+    },
+    'Electrical Engineering': {
+        'Circuit Theory': [
+            {'name': 'George', 'age': 23, 'grades': [82, 85, 88]},
+            {'name': 'Hannah', 'age': 22, 'grades': [75, 78, 80]},
+            {'name': 'Ian', 'age': 24, 'grades': [90, 92, 88]}
+        ],
+        'Electromagnetic Fields': [
+            {'name': 'Julia', 'age': 21, 'grades': [88, 90, 85]},
+            {'name': 'Kevin', 'age': 23, 'grades': [92, 94, 90]},
+            {'name': 'Lily', 'age': 22, 'grades': [85, 88, 82]}
+        ]
+    }
