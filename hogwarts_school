@@ -3,7 +3,7 @@ hogwart_school_students  = {
         'Defense Against the Dark Arts': [
             {'name': 'Harry Potter', 'age': 17, 'grades': [85, 90, 88]},
             {'name': 'Hermione Granger', 'age': 17, 'grades': [95, 98, 100]},
-            {'name': 'Ron Weasley', 'age': 17, 'grades': [75, 80, 82]}
+            {'name': 'Ron Weasley', 'age': 16, 'grades': [75, 80, 82]}
         ],
         'Transfiguration': [
             {'name': 'Neville Longbottom', 'age': 17, 'grades': [78, 82, 80]},
@@ -15,7 +15,7 @@ hogwart_school_students  = {
         'Potions': [
             {'name': 'Draco Malfoy', 'age': 17, 'grades': [82, 85, 88]},
             {'name': 'Pansy Parkinson', 'age': 17, 'grades': [75, 78, 80]},
-            {'name': 'Blaise Zabini', 'age': 17, 'grades': [90, 92, 88]}
+            {'name': 'Blaise Zabini', 'age': 16, 'grades': [90, 92, 88]}
         ],
         'Dark Arts': [
             {'name': 'Theodore Nott', 'age': 17, 'grades': [88, 90, 85]},
@@ -26,7 +26,7 @@ hogwart_school_students  = {
     'Hufflepuff': {
         'Herbology': [
             {'name': 'Cedric Diggory', 'age': 17, 'grades': [90, 92, 95]},
-            {'name': 'Hannah Abbott', 'age': 17, 'grades': [85, 88, 90]},
+            {'name': 'Hannah Abbott', 'age': 16, 'grades': [85, 88, 90]},
             {'name': 'Ernie Macmillan', 'age': 17, 'grades': [78, 80, 82]}
         ],
         'Care of Magical Creatures': [
