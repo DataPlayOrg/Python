@@ -1,0 +1,24 @@
+[2022-01-01 08:15:30] 123 login success viewer
+[2022-01-01 08:20:45] 123 logout viewer
+[2022-01-01 09:05:12] 123 view_page article_1 viewer
+[2022-01-01 09:10:30] 789 login success admin,editor
+[2022-01-01 09:30:00] 456 edit_profile editor
+[2022-01-01 10:00:00] 456 view_page article_2 editor
+[2022-01-01 10:30:00] 789 view_page article_1 admin
+[2022-01-01 10:45:22] 123 logout viewer
+[2022-01-01 11:05:30] 789 logout admin
+[2022-01-01 11:15:00] 456 view_page article_2 editor
+[2022-01-01 11:20:45] 123 login success viewer
+[2022-01-01 12:30:00] 456 logout editor
+[2022-01-01 12:45:22] 789 edit_profile admin
+[2022-01-01 13:15:30] 123 view_page article_3 viewer
+[2022-01-01 13:30:45] 789 view_page article_4 admin
+[2022-01-01 14:10:00] 123 logout viewer
+[2022-01-01 14:20:00] 123 login success admin
+[2022-01-01 15:00:00] 123 view_page article_4 admin
+[2022-01-01 15:30:00] 789 view_page article_5 admin
+[2022-01-01 16:00:00] 123 logout admin
+[2022-01-01 16:30:00] 456 edit_profile editor
+[2022-01-01 17:00:00] 789 edit_profile admin
+[2022-01-01 18:00:00] 456 logout editor
+[2022-01-01 18:15:00] 789 logout admin
